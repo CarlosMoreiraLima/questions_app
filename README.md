@@ -1,6 +1,6 @@
-# projeto_perguntas
+# Projeto perguntas
 
-A new Flutter project.
+This is an APP with the purpose of understanding the basic concepts of flutter, based on the tutorial from the udemy course "Learn Flutter and Develop Apps for Android and IOS" by Coder.
 
 ## Getting Started
 
